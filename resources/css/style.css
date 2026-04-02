@@ -5,6 +5,8 @@ body {
 
 }
 
-h1 {
-    
+.header--main {
+    color: white;
+    font-weight: normal;
+    font-size: 50px;
 }
